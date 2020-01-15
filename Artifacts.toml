@@ -1,0 +1,9 @@
+[[PlatformSupport-x86_64-w64-mingw32]]
+arch = "x86_64"
+git-tree-sha1 = "66d2af33befa5f9f3686c60bc08b059aed704833"
+libc = "musl"
+os = "linux"
+
+    [[PlatformSupport-x86_64-w64-mingw32.download]]
+    sha256 = "848304b9aee1a03b79e69b1ee6ad5b4a740efd9813dceb0ad6453dbacef0b952"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-x86_64-w64-mingw32_jll.jl/releases/download/PlatformSupport-x86_64-w64-mingw32-v2020.1.15+0/PlatformSupport-x86_64-w64-mingw32.v2020.1.15.x86_64-linux-musl.tar.gz"
